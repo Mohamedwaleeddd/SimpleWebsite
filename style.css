@@ -36,7 +36,7 @@ span{
     left: 20px;
   }
   .menu{
-    top: -100%;
+    top: -200%;
     position: fixed;
     z-index: 999999999999999999;
     height: 100vh;
