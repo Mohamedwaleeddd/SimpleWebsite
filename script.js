@@ -3,7 +3,7 @@ function show(){
     document.querySelector('.menu').style.top = "0";
   }
   function d(){
-    document.querySelector('.menu').style.top = "-100%";
+    document.querySelector('.menu').style.top = "-200%";
   }  
   window.addEventListener("scroll", () => {
   if (document.body.scrollTop >= 100 || document.documentElement.scrollTop >= 370) {
