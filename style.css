@@ -20,7 +20,7 @@ span{
     justify-content: space-around;
     height: 70px;
     width: 100%;
-    z-index: 999999999;
+    z-index: 9999999999999;
     box-shadow: 3px 2px 8px lightgrey;
     background: ghostwhite;
   }
@@ -38,7 +38,7 @@ span{
   .menu{
     top: -200%;
     position: fixed;
-    z-index: 999999999999999999;
+    z-index: 9999999;
     height: 100vh;
     background: #002;
     left: 0;
