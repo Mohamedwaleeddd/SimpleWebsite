@@ -39,6 +39,7 @@ span{
     top: -200%;
     position: fixed;
     height: 100vh;
+    z-index: 999;
     background: #002;
     left: 0;
     color: #fff;
